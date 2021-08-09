@@ -6,7 +6,7 @@ export default function Footer() {
     return (
         <div>
             <div className="h-1/6 bg-blue-300 ">
-               <img src={pic} alt="" className="h-1/6" />
+				<Image src={pic} alt=""/>
             </div>
         </div>
     )
